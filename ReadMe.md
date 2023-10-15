@@ -29,7 +29,7 @@ We help biopharmaceutical, emerging biotech and medical device companies develop
 -Client: HTML, CSS, Javascript
 
 ## Demo
-<img src="./images/Screenshot 2023-10-15 155338.png"  height="400"/>
+<img src="./images/Screenshot 2023-10-15 161054.png"  height="400"/>
 <img src="./images/Screenshot 2023-10-15 155556.png"  height="400"/>
 <img src="./images/Screenshot 2023-10-15 155630.png"  height="400"/>
 <img src="./images/Screenshot 2023-10-15 155532.png"  height="400"/>
