@@ -20,13 +20,17 @@ We help biopharmaceutical, emerging biotech and medical device companies develop
 
 ## Features
 
--Search: Search for specific treatment by name or category.
+- Search: Search for specific treatment by name or category.
 
--Contact: Get in touch with us through the contact form for inquiries.
+- Contact: Get in touch with us through the contact form for inquiries.
 
 ## Tech Stack
 
--Client: HTML, CSS, Javascript
+- HTML
+
+- CSS
+ 
+- Javascript- DOM Manipulation, Local Storage
 
 ## Demo
 <img src="./images/Screenshot 2023-10-15 161054.png"  width="800" height="400"/>
@@ -53,7 +57,7 @@ The system should now be accessible at `http://127.0.0.1:5502/public/index.html`
 
 ### Interacting with the Web Interface
 
-1. *Access the System*: Open a web browser and navigate to the URL where the SeatSight system is running. The default address is usually `http://127.0.0.1:5502/public/index.html` if running on the local development server.
+1. *Access the System*: Open a web browser and navigate to the URL where the Indengene system is running. The default address is usually `http://127.0.0.1:5502/public/index.html` if running on the local development server.
 
 2. *Homepage*: Upon accessing the system, you'll be presented with the homepage. This page displays an intuitive interface where you can know about indengene.
 
