@@ -1,4 +1,4 @@
-# Indegene: A Solution for Public Spaces
+# Indegene
 
 We are a digital-first, life sciences commercialization company.
 
@@ -21,6 +21,7 @@ We help biopharmaceutical, emerging biotech and medical device companies develop
 ## Features
 
 -Search: Search for specific treatment by name or category.
+
 -Contact: Get in touch with us through the contact form for inquiries.
 
 ## Tech Stack
@@ -28,23 +29,13 @@ We help biopharmaceutical, emerging biotech and medical device companies develop
 -Client: HTML, CSS, Javascript
 
 ## Demo
-<img src="./images/Screenshot 2023-10-15 155338.png" width="300" height="200"/>
-<img src="./images/Screenshot 2023-10-15 155532.png" width="300" height="200"/>
-<img src="./images/Screenshot 2023-10-15 155556.png" width="300" height="200"/>
-<img src="./images/Screenshot 2023-10-15 155630.png" width="300" height="200"/>
+<img src="./images/Screenshot 2023-10-15 155338.png" width="500" height="200"/>
+<img src="./images/Screenshot 2023-10-15 155532.png" width="500" height="200"/>
+<img src="./images/Screenshot 2023-10-15 155556.png" width="500" height="200"/>
+<img src="./images/Screenshot 2023-10-15 155630.png" width="500" height="200"/>
 
 
 ## Getting Started
-
-Follow these steps to set up and run the SeatSight project on your local environment.
-
-### Prerequisites
-
-- Python (3.7 or higher)
-- Django (version 4.1.4, see [requirements.txt](requirements.txt))
-- Download the YOLOv3 model files (weights and configuration) and place them in the appropriate directory.
-- YOLOv3 model weights and configuration files (can be downloaded from [here](https://github.com/ultralytics/yolov3))
-- Additional dependencies mentioned in [requirements.txt](requirements.txt)
 
 ### Installation
 1. Clone this repository.
