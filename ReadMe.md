@@ -30,9 +30,9 @@ We help biopharmaceutical, emerging biotech and medical device companies develop
 
 ## Demo
 <img src="./images/Screenshot 2023-10-15 161054.png"  width="800" height="400"/>
-<img src="./images/Screenshot 2023-10-15 155556.png"  height="400"/>
-<img src="./images/Screenshot 2023-10-15 155630.png"  height="400"/>
-<img src="./images/Screenshot 2023-10-15 155532.png"  height="400"/>
+<img src="./images/Screenshot 2023-10-15 155556.png"  width="800"  height="400"/>
+<img src="./images/Screenshot 2023-10-15 155630.png"  width="800"  height="400"/>
+<img src="./images/Screenshot 2023-10-15 155532.png"  width="800" height="400"/>
 
 
 ## Getting Started
